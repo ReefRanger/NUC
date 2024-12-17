@@ -1,0 +1,24 @@
+running egg_info
+writing ../../build/bcudriver/bcudriver.egg-info/PKG-INFO
+writing dependency_links to ../../build/bcudriver/bcudriver.egg-info/dependency_links.txt
+writing entry points to ../../build/bcudriver/bcudriver.egg-info/entry_points.txt
+writing requirements to ../../build/bcudriver/bcudriver.egg-info/requires.txt
+writing top-level names to ../../build/bcudriver/bcudriver.egg-info/top_level.txt
+reading manifest file '../../build/bcudriver/bcudriver.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/bcudriver/bcudriver.egg-info/SOURCES.txt'
+running build
+running build_py
+copying bcudriver/bcudriver.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/bcudriver/build/lib/bcudriver
+copying bcudriver/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/bcudriver/build/lib/bcudriver
+running install
+running install_lib
+running install_data
+copying resource/bcudriver -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/bcudriver/share/ament_index/resource_index/packages
+copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/bcudriver/share/bcudriver
+running install_egg_info
+removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/bcudriver/lib/python3.10/site-packages/bcudriver-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/bcudriver/bcudriver.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/bcudriver/lib/python3.10/site-packages/bcudriver-0.0.0-py3.10.egg-info
+running install_scripts
+Installing bcudriver script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/bcudriver/lib/bcudriver
+writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/bcudriver/install.log'
