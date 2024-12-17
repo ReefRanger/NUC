@@ -17,7 +17,9 @@ setup(
     maintainer_email='reefranger@todo.todo',
     description='TODO: Package description',
     license='Apache-2.0',
-    tests_require=['pytest'],
+    extras_require={  # Use this for optional test dependencies
+        'test': ['pytest'],
+    },
     entry_points={
         'console_scripts': [
         	'save_detect = save_detect.save_detect:main'

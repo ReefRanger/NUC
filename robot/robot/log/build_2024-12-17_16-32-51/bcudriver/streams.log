@@ -1,0 +1,26 @@
+[2.158s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/bcudriver': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/bcudriver/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/bcudriver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bcudriver build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/bcudriver/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/bcudriver/install.log --single-version-externally-managed install_data
+[2.486s] running egg_info
+[2.515s] writing ../../build/bcudriver/bcudriver.egg-info/PKG-INFO
+[2.519s] writing dependency_links to ../../build/bcudriver/bcudriver.egg-info/dependency_links.txt
+[2.519s] writing entry points to ../../build/bcudriver/bcudriver.egg-info/entry_points.txt
+[2.519s] writing requirements to ../../build/bcudriver/bcudriver.egg-info/requires.txt
+[2.519s] writing top-level names to ../../build/bcudriver/bcudriver.egg-info/top_level.txt
+[2.596s] reading manifest file '../../build/bcudriver/bcudriver.egg-info/SOURCES.txt'
+[2.596s] adding license file 'LICENSE'
+[2.596s] writing manifest file '../../build/bcudriver/bcudriver.egg-info/SOURCES.txt'
+[2.596s] running build
+[2.597s] running build_py
+[2.597s] copying bcudriver/bcudriver.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/bcudriver/build/lib/bcudriver
+[2.597s] copying bcudriver/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/bcudriver/build/lib/bcudriver
+[2.597s] running install
+[2.605s] running install_lib
+[2.632s] running install_data
+[2.632s] copying resource/bcudriver -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/bcudriver/share/ament_index/resource_index/packages
+[2.632s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/bcudriver/share/bcudriver
+[2.633s] running install_egg_info
+[2.668s] removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/bcudriver/lib/python3.10/site-packages/bcudriver-0.0.0-py3.10.egg-info' (and everything under it)
+[2.668s] Copying ../../build/bcudriver/bcudriver.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/bcudriver/lib/python3.10/site-packages/bcudriver-0.0.0-py3.10.egg-info
+[2.668s] running install_scripts
+[2.908s] Installing bcudriver script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/bcudriver/lib/bcudriver
+[2.909s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/bcudriver/install.log'
+[3.008s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/bcudriver' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/bcudriver/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/bcudriver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bcudriver build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/bcudriver/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/bcudriver/install.log --single-version-externally-managed install_data

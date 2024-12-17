@@ -1,0 +1,25 @@
+/home/reefranger/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+writing ../../build/movetable/movetable.egg-info/PKG-INFO
+writing dependency_links to ../../build/movetable/movetable.egg-info/dependency_links.txt
+writing entry points to ../../build/movetable/movetable.egg-info/entry_points.txt
+writing requirements to ../../build/movetable/movetable.egg-info/requires.txt
+writing top-level names to ../../build/movetable/movetable.egg-info/top_level.txt
+reading manifest file '../../build/movetable/movetable.egg-info/SOURCES.txt'
+writing manifest file '../../build/movetable/movetable.egg-info/SOURCES.txt'
+running build
+running build_py
+copying movetable/movetable.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/build/lib/movetable
+copying movetable/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/build/lib/movetable
+running install
+running install_lib
+running install_data
+copying resource/movetable -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/share/ament_index/resource_index/packages
+copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/share/movetable
+running install_egg_info
+removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/lib/python3.10/site-packages/movetable-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/movetable/movetable.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/lib/python3.10/site-packages/movetable-0.0.0-py3.10.egg-info
+running install_scripts
+Installing movetable script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/lib/movetable
+writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/install.log'

@@ -17,7 +17,9 @@ setup(
     maintainer_email='48968873+Zundii@users.noreply.github.com',
     description='TODO: Package description',
     license='Apache-2.0',
-    tests_require=['pytest'],
+    extras_require={  # Use this for optional test dependencies
+        'test': ['pytest'],
+    },
     entry_points={
         'console_scripts': ['commander = commander.commander:main'
         ],

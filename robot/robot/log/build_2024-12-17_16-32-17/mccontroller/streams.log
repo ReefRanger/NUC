@@ -1,0 +1,29 @@
+[2.203s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/mccontroller': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/mccontroller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/mccontroller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/mccontroller build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/mccontroller/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/mccontroller/install.log --single-version-externally-managed install_data
+[2.344s] /home/reefranger/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[2.344s]   warnings.warn(msg)
+[2.517s] running egg_info
+[2.548s] writing ../../build/mccontroller/mccontroller.egg-info/PKG-INFO
+[2.548s] writing dependency_links to ../../build/mccontroller/mccontroller.egg-info/dependency_links.txt
+[2.548s] writing entry points to ../../build/mccontroller/mccontroller.egg-info/entry_points.txt
+[2.548s] writing requirements to ../../build/mccontroller/mccontroller.egg-info/requires.txt
+[2.548s] writing top-level names to ../../build/mccontroller/mccontroller.egg-info/top_level.txt
+[2.609s] reading manifest file '../../build/mccontroller/mccontroller.egg-info/SOURCES.txt'
+[2.610s] adding license file 'LICENSE'
+[2.611s] writing manifest file '../../build/mccontroller/mccontroller.egg-info/SOURCES.txt'
+[2.611s] running build
+[2.611s] running build_py
+[2.612s] copying mccontroller/mccontroller copy.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/mccontroller/build/lib/mccontroller
+[2.612s] copying mccontroller/mccontroller.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/mccontroller/build/lib/mccontroller
+[2.612s] copying mccontroller/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/mccontroller/build/lib/mccontroller
+[2.612s] running install
+[2.619s] running install_lib
+[2.649s] running install_data
+[2.649s] copying resource/mccontroller -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/mccontroller/share/ament_index/resource_index/packages
+[2.650s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/mccontroller/share/mccontroller
+[2.650s] running install_egg_info
+[2.682s] removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/mccontroller/lib/python3.10/site-packages/mccontroller-0.0.0-py3.10.egg-info' (and everything under it)
+[2.682s] Copying ../../build/mccontroller/mccontroller.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/mccontroller/lib/python3.10/site-packages/mccontroller-0.0.0-py3.10.egg-info
+[2.683s] running install_scripts
+[2.927s] Installing mccontroller script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/mccontroller/lib/mccontroller
+[2.927s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/mccontroller/install.log'
+[3.010s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/mccontroller' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/mccontroller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/mccontroller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/mccontroller build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/mccontroller/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/mccontroller/install.log --single-version-externally-managed install_data

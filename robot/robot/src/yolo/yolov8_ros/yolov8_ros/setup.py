@@ -17,7 +17,9 @@ setup(
     maintainer_email='mgons@unileon.es',
     description='YOLOv8 for ROS 2',
     license='GPL-3',
-    tests_require=['pytest'],
+    extras_require={  # Use this for optional test dependencies
+        'test': ['pytest'],
+    },
     entry_points={
         'console_scripts': [
                 'yolov8_node = yolov8_ros.yolov8_node:main',

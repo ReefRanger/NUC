@@ -17,7 +17,9 @@ setup(
     maintainer_email='klaus.moeri@gmail.com',
     description='TODO: Package description',
     license='Apache-2.0',
-    tests_require=['pytest'],
+    extras_require={  # Use this for optional test dependencies
+        'test': ['pytest'],
+    },
     entry_points={
         'console_scripts': [
                	'navigate_path = navigate_path.navigate_path:main'

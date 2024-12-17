@@ -1,0 +1,146 @@
+[1.085s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/build/move_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/reefranger/Desktop/ReefRanger/robot/robot/build/move_interface -- -j12 -l12
+[1.120s] [  3%] Built target move_interface__cpp
+[1.121s] [ 12%] Built target move_interface__rosidl_generator_c
+[1.127s] [ 12%] Built target ament_cmake_python_copy_move_interface
+[1.139s] [ 22%] Built target move_interface__rosidl_typesupport_cpp
+[1.140s] [ 32%] Built target move_interface__rosidl_typesupport_introspection_cpp
+[1.140s] [ 41%] Built target move_interface__rosidl_typesupport_fastrtps_cpp
+[1.144s] [ 51%] Built target move_interface__rosidl_typesupport_introspection_c
+[1.145s] [ 61%] Built target move_interface__rosidl_typesupport_c
+[1.146s] [ 70%] Built target move_interface__rosidl_typesupport_fastrtps_c
+[1.161s] [ 70%] Built target move_interface
+[1.176s] [ 74%] Built target move_interface__py
+[1.192s] [ 80%] Built target move_interface__rosidl_generator_py
+[1.208s] [ 87%] Built target move_interface__rosidl_typesupport_fastrtps_c__pyext
+[1.209s] [ 93%] Built target move_interface__rosidl_typesupport_c__pyext
+[1.209s] [100%] Built target move_interface__rosidl_typesupport_introspection_c__pyext
+[1.318s] running egg_info
+[1.348s] writing move_interface.egg-info/PKG-INFO
+[1.348s] writing dependency_links to move_interface.egg-info/dependency_links.txt
+[1.349s] writing top-level names to move_interface.egg-info/top_level.txt
+[1.469s] reading manifest file 'move_interface.egg-info/SOURCES.txt'
+[1.470s] writing manifest file 'move_interface.egg-info/SOURCES.txt'
+[1.507s] [100%] Built target ament_cmake_python_build_move_interface_egg
+[1.524s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/build/move_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/reefranger/Desktop/ReefRanger/robot/robot/build/move_interface -- -j12 -l12
+[1.782s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/build/move_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/reefranger/Desktop/ReefRanger/robot/robot/build/move_interface
+[1.996s] -- Install configuration: ""
+[1.997s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/ament_index/resource_index/rosidl_interfaces/move_interface
+[1.997s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface
+[1.997s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/msg
+[1.997s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/msg/rosidl_generator_c__visibility_control.h
+[1.997s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action
+[1.997s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail
+[1.997s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail/move__functions.h
+[1.997s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail/move__functions.c
+[1.997s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail/move__struct.h
+[1.997s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail/move__type_support.h
+[1.997s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/move.h
+[1.997s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/environment/library_path.sh
+[1.997s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/environment/library_path.dsv
+[1.997s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/lib/libmove_interface__rosidl_generator_c.so
+[1.998s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface
+[1.998s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/msg
+[1.998s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.998s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action
+[1.998s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail
+[1.999s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail/move__rosidl_typesupport_fastrtps_c.h
+[1.999s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/lib/libmove_interface__rosidl_typesupport_fastrtps_c.so
+[1.999s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface
+[1.999s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/msg
+[2.000s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.000s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action
+[2.000s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail
+[2.000s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail/move__rosidl_typesupport_introspection_c.h
+[2.000s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail/move__type_support.c
+[2.000s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/lib/libmove_interface__rosidl_typesupport_introspection_c.so
+[2.000s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/lib/libmove_interface__rosidl_typesupport_c.so
+[2.000s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface
+[2.000s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action
+[2.000s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail
+[2.000s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail/move__traits.hpp
+[2.000s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail/move__struct.hpp
+[2.001s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail/move__builder.hpp
+[2.001s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/move.hpp
+[2.001s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface
+[2.001s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/msg
+[2.001s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail/dds_fastrtps
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail/move__rosidl_typesupport_fastrtps_cpp.hpp
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/lib/libmove_interface__rosidl_typesupport_fastrtps_cpp.so
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail/move__type_support.cpp
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/include/move_interface/move_interface/action/detail/move__rosidl_typesupport_introspection_cpp.hpp
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/lib/libmove_interface__rosidl_typesupport_introspection_cpp.so
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/lib/libmove_interface__rosidl_typesupport_cpp.so
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/environment/pythonpath.sh
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/environment/pythonpath.dsv
+[2.002s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface-0.0.0-py3.10.egg-info
+[2.002s] -- Installing: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface-0.0.0-py3.10.egg-info/dependency_links.txt
+[2.002s] -- Installing: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface-0.0.0-py3.10.egg-info/SOURCES.txt
+[2.003s] -- Installing: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface-0.0.0-py3.10.egg-info/PKG-INFO
+[2.003s] -- Installing: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface-0.0.0-py3.10.egg-info/top_level.txt
+[2.003s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface
+[2.004s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/move_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.005s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/_move_interface_s.ep.rosidl_typesupport_c.c
+[2.006s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/action
+[2.006s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/action/_move.py
+[2.006s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/action/_move_s.c
+[2.006s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/action/__init__.py
+[2.006s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/move_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.007s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/move_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.007s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/_move_interface_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.007s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/__init__.py
+[2.007s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/libmove_interface__rosidl_generator_py.so
+[2.007s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/_move_interface_s.ep.rosidl_typesupport_introspection_c.c
+[2.008s] Listing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface'...
+[2.008s] Listing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/action'...
+[2.008s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/move_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.008s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/move_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.008s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/local/lib/python3.10/dist-packages/move_interface/move_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.008s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/lib/libmove_interface__rosidl_generator_py.so
+[2.008s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/action/Move.idl
+[2.008s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/action/Move.action
+[2.009s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/ament_index/resource_index/package_run_dependencies/move_interface
+[2.010s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/ament_index/resource_index/parent_prefix_path/move_interface
+[2.010s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/environment/ament_prefix_path.sh
+[2.010s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/environment/ament_prefix_path.dsv
+[2.010s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/environment/path.sh
+[2.011s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/environment/path.dsv
+[2.011s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/local_setup.bash
+[2.011s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/local_setup.sh
+[2.011s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/local_setup.zsh
+[2.011s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/local_setup.dsv
+[2.011s] -- Installing: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/package.dsv
+[2.011s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/ament_index/resource_index/packages/move_interface
+[2.011s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/export_move_interface__rosidl_generator_cExport.cmake
+[2.011s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/export_move_interface__rosidl_generator_cExport-noconfig.cmake
+[2.011s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/export_move_interface__rosidl_typesupport_fastrtps_cExport.cmake
+[2.011s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/export_move_interface__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.011s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/move_interface__rosidl_typesupport_introspection_cExport.cmake
+[2.011s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/move_interface__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.012s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/move_interface__rosidl_typesupport_cExport.cmake
+[2.012s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/move_interface__rosidl_typesupport_cExport-noconfig.cmake
+[2.012s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/export_move_interface__rosidl_generator_cppExport.cmake
+[2.012s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/export_move_interface__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.012s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/export_move_interface__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.012s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/move_interface__rosidl_typesupport_introspection_cppExport.cmake
+[2.012s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/move_interface__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.012s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/move_interface__rosidl_typesupport_cppExport.cmake
+[2.013s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/move_interface__rosidl_typesupport_cppExport-noconfig.cmake
+[2.014s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/export_move_interface__rosidl_generator_pyExport.cmake
+[2.014s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/export_move_interface__rosidl_generator_pyExport-noconfig.cmake
+[2.014s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/rosidl_cmake-extras.cmake
+[2.014s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.014s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.014s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[2.014s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/ament_cmake_export_targets-extras.cmake
+[2.015s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.015s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.015s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/move_interfaceConfig.cmake
+[2.015s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/cmake/move_interfaceConfig-version.cmake
+[2.015s] -- Up-to-date: /home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface/share/move_interface/package.xml
+[2.037s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/build/move_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/reefranger/Desktop/ReefRanger/robot/robot/build/move_interface

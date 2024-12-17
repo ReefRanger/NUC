@@ -32,27 +32,27 @@ class MarkerPublisher(Node):
 
     def publish_marker(self, x, y, z):
     	
-	marker = Marker()
-	# Set the marker's properties
-	marker.header.frame_id = "camera_frame" 
-	marker.header.stamp = self.get_clock().now().to_msg()
-	marker.ns = "bbox_center"
-	marker.id = 0
-	marker.type = Marker.ARROW
-	marker.action = Marker.ADD
-	# Define start (camera or origin) and end (bbox center) points
-	marker.points.append(Point(x=0, y=0, z=0)) # Start point
-	marker.points.append(Point(x=x, y=y, z=z)) # End point at bbox center
-	# Set the marker scale and color
-	marker.scale.x = 0.1 # Arrow shaft diameter
-	marker.scale.y = 0.2 # Arrow head diameter
-	marker.color.r = 1.0
-	marker.color.g = 0.0
-	marker.color.b = 0.0
-	marker.color.a = 1.0
-	# Publish the marker
-	self.marker_pub.publish(marker)
-	self.get_logger().info("Published marker at position: ({x}, {y}, {z})")
+        marker = Marker()
+        # Set the marker's properties
+        marker.header.frame_id = "camera_frame" 
+        marker.header.stamp = self.get_clock().now().to_msg()
+        marker.ns = "bbox_center"
+        marker.id = 0
+        marker.type = Marker.ARROW
+        marker.action = Marker.ADD
+        # Define start (camera or origin) and end (bbox center) points
+        marker.points.append(Point(x=0, y=0, z=0)) # Start point
+        marker.points.append(Point(x=x, y=y, z=z)) # End point at bbox center
+        # Set the marker scale and color
+        marker.scale.x = 0.1 # Arrow shaft diameter
+        marker.scale.y = 0.2 # Arrow head diameter
+        marker.color.r = 1.0
+        marker.color.g = 0.0
+        marker.color.b = 0.0
+        marker.color.a = 1.0
+        # Publish the marker
+        self.marker_pub.publish(marker)
+        self.get_logger().info("Published marker at position: ({x}, {y}, {z})")
 
 def main(args=None):
     rclpy.init(args=args)

@@ -1,0 +1,26 @@
+[2.134s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/moveovertable': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/moveovertable/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/moveovertable/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/moveovertable build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/moveovertable/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/moveovertable/install.log --single-version-externally-managed install_data
+[2.465s] running egg_info
+[2.500s] writing ../../build/moveovertable/moveovertable.egg-info/PKG-INFO
+[2.500s] writing dependency_links to ../../build/moveovertable/moveovertable.egg-info/dependency_links.txt
+[2.501s] writing entry points to ../../build/moveovertable/moveovertable.egg-info/entry_points.txt
+[2.503s] writing requirements to ../../build/moveovertable/moveovertable.egg-info/requires.txt
+[2.503s] writing top-level names to ../../build/moveovertable/moveovertable.egg-info/top_level.txt
+[2.573s] reading manifest file '../../build/moveovertable/moveovertable.egg-info/SOURCES.txt'
+[2.573s] adding license file 'LICENSE'
+[2.574s] writing manifest file '../../build/moveovertable/moveovertable.egg-info/SOURCES.txt'
+[2.574s] running build
+[2.574s] running build_py
+[2.575s] copying moveovertable/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/moveovertable/build/lib/moveovertable
+[2.575s] copying moveovertable/moveovertable.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/moveovertable/build/lib/moveovertable
+[2.576s] running install
+[2.584s] running install_lib
+[2.619s] running install_data
+[2.620s] copying resource/moveovertable -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/moveovertable/share/ament_index/resource_index/packages
+[2.621s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/moveovertable/share/moveovertable
+[2.621s] running install_egg_info
+[2.650s] removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/moveovertable/lib/python3.10/site-packages/moveovertable-0.0.0-py3.10.egg-info' (and everything under it)
+[2.652s] Copying ../../build/moveovertable/moveovertable.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/moveovertable/lib/python3.10/site-packages/moveovertable-0.0.0-py3.10.egg-info
+[2.652s] running install_scripts
+[2.889s] Installing moveovertable script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/moveovertable/lib/moveovertable
+[2.890s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/moveovertable/install.log'
+[2.965s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/moveovertable' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/moveovertable/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/moveovertable/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/moveovertable build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/moveovertable/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/moveovertable/install.log --single-version-externally-managed install_data

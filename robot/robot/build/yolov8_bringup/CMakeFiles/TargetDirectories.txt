@@ -1,0 +1,9 @@
+/home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_bringup/CMakeFiles/uninstall.dir
+/home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_bringup/CMakeFiles/yolov8_bringup_uninstall.dir
+/home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_bringup/CMakeFiles/test.dir
+/home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_bringup/CMakeFiles/edit_cache.dir
+/home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_bringup/CMakeFiles/rebuild_cache.dir
+/home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_bringup/CMakeFiles/list_install_components.dir
+/home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_bringup/CMakeFiles/install.dir
+/home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_bringup/CMakeFiles/install/local.dir
+/home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_bringup/CMakeFiles/install/strip.dir

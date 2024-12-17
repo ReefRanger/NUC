@@ -1,0 +1,26 @@
+/home/reefranger/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+writing ../../build/ins/ins.egg-info/PKG-INFO
+writing dependency_links to ../../build/ins/ins.egg-info/dependency_links.txt
+writing entry points to ../../build/ins/ins.egg-info/entry_points.txt
+writing requirements to ../../build/ins/ins.egg-info/requires.txt
+writing top-level names to ../../build/ins/ins.egg-info/top_level.txt
+reading manifest file '../../build/ins/ins.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/ins/ins.egg-info/SOURCES.txt'
+running build
+running build_py
+copying ins/ins.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/ins/build/lib/ins
+copying ins/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/ins/build/lib/ins
+running install
+running install_lib
+running install_data
+copying resource/ins -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/ins/share/ament_index/resource_index/packages
+copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/ins/share/ins
+running install_egg_info
+removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/ins/lib/python3.10/site-packages/ins-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/ins/ins.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/ins/lib/python3.10/site-packages/ins-0.0.0-py3.10.egg-info
+running install_scripts
+Installing ins script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/ins/lib/ins
+writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/ins/install.log'

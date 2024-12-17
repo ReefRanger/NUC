@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/mccontroller/mccontroller.egg-info/PKG-INFO
+writing dependency_links to ../../build/mccontroller/mccontroller.egg-info/dependency_links.txt
+writing entry points to ../../build/mccontroller/mccontroller.egg-info/entry_points.txt
+writing requirements to ../../build/mccontroller/mccontroller.egg-info/requires.txt
+writing top-level names to ../../build/mccontroller/mccontroller.egg-info/top_level.txt
+reading manifest file '../../build/mccontroller/mccontroller.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/mccontroller/mccontroller.egg-info/SOURCES.txt'
+running build
+running build_py
+copying mccontroller/mccontroller copy.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/mccontroller/build/lib/mccontroller
+copying mccontroller/mccontroller.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/mccontroller/build/lib/mccontroller
+copying mccontroller/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/mccontroller/build/lib/mccontroller
+running install
+running install_lib
+running install_data
+copying resource/mccontroller -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/mccontroller/share/ament_index/resource_index/packages
+copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/mccontroller/share/mccontroller
+running install_egg_info
+removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/mccontroller/lib/python3.10/site-packages/mccontroller-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/mccontroller/mccontroller.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/mccontroller/lib/python3.10/site-packages/mccontroller-0.0.0-py3.10.egg-info
+running install_scripts
+Installing mccontroller script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/mccontroller/lib/mccontroller
+/home/reefranger/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/mccontroller/install.log'

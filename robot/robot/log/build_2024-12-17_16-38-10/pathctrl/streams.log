@@ -1,0 +1,30 @@
+[1.447s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/pathctrl': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/pathctrl/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/pathctrl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pathctrl build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/pathctrl/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/pathctrl/install.log --single-version-externally-managed install_data
+[1.675s] running egg_info
+[1.691s] writing ../../build/pathctrl/pathctrl.egg-info/PKG-INFO
+[1.692s] writing dependency_links to ../../build/pathctrl/pathctrl.egg-info/dependency_links.txt
+[1.692s] writing entry points to ../../build/pathctrl/pathctrl.egg-info/entry_points.txt
+[1.692s] writing requirements to ../../build/pathctrl/pathctrl.egg-info/requires.txt
+[1.692s] writing top-level names to ../../build/pathctrl/pathctrl.egg-info/top_level.txt
+[1.725s] reading manifest file '../../build/pathctrl/pathctrl.egg-info/SOURCES.txt'
+[1.725s] adding license file 'LICENSE'
+[1.726s] writing manifest file '../../build/pathctrl/pathctrl.egg-info/SOURCES.txt'
+[1.726s] running build
+[1.726s] running build_py
+[1.726s] copying pathctrl/pathctrl_subscriper.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/pathctrl/build/lib/pathctrl
+[1.726s] copying pathctrl/pathctrl_1.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/pathctrl/build/lib/pathctrl
+[1.726s] copying pathctrl/pathctrl.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/pathctrl/build/lib/pathctrl
+[1.726s] copying pathctrl/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/pathctrl/build/lib/pathctrl
+[1.727s] copying pathctrl/pathctrl_2.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/pathctrl/build/lib/pathctrl
+[1.727s] copying pathctrl/pathctrl3.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/pathctrl/build/lib/pathctrl
+[1.727s] running install
+[1.730s] running install_lib
+[1.749s] running install_data
+[1.749s] copying resource/pathctrl -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/pathctrl/share/ament_index/resource_index/packages
+[1.749s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/pathctrl/share/pathctrl
+[1.749s] running install_egg_info
+[1.765s] removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/pathctrl/lib/python3.10/site-packages/pathctrl-0.0.0-py3.10.egg-info' (and everything under it)
+[1.765s] Copying ../../build/pathctrl/pathctrl.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/pathctrl/lib/python3.10/site-packages/pathctrl-0.0.0-py3.10.egg-info
+[1.766s] running install_scripts
+[1.898s] Installing pathctrl script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/pathctrl/lib/pathctrl
+[1.899s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/pathctrl/install.log'
+[1.916s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/pathctrl' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/pathctrl/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/pathctrl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pathctrl build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/pathctrl/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/pathctrl/install.log --single-version-externally-managed install_data

@@ -1,0 +1,26 @@
+[2.118s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/ins': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/ins/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/ins/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ins build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/ins/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/ins/install.log --single-version-externally-managed install_data
+[2.469s] running egg_info
+[2.496s] writing ../../build/ins/ins.egg-info/PKG-INFO
+[2.496s] writing dependency_links to ../../build/ins/ins.egg-info/dependency_links.txt
+[2.497s] writing entry points to ../../build/ins/ins.egg-info/entry_points.txt
+[2.497s] writing requirements to ../../build/ins/ins.egg-info/requires.txt
+[2.497s] writing top-level names to ../../build/ins/ins.egg-info/top_level.txt
+[2.560s] reading manifest file '../../build/ins/ins.egg-info/SOURCES.txt'
+[2.561s] adding license file 'LICENSE'
+[2.562s] writing manifest file '../../build/ins/ins.egg-info/SOURCES.txt'
+[2.563s] running build
+[2.563s] running build_py
+[2.563s] copying ins/ins.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/ins/build/lib/ins
+[2.566s] copying ins/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/ins/build/lib/ins
+[2.566s] running install
+[2.571s] running install_lib
+[2.603s] running install_data
+[2.603s] copying resource/ins -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/ins/share/ament_index/resource_index/packages
+[2.604s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/ins/share/ins
+[2.604s] running install_egg_info
+[2.637s] removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/ins/lib/python3.10/site-packages/ins-0.0.0-py3.10.egg-info' (and everything under it)
+[2.637s] Copying ../../build/ins/ins.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/ins/lib/python3.10/site-packages/ins-0.0.0-py3.10.egg-info
+[2.640s] running install_scripts
+[2.881s] Installing ins script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/ins/lib/ins
+[2.882s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/ins/install.log'
+[2.957s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/ins' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/ins/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/ins/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ins build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/ins/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/ins/install.log --single-version-externally-managed install_data

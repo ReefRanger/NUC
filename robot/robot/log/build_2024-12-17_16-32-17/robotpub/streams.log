@@ -1,0 +1,25 @@
+[1.391s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/robotpub': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/robotpub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/robotpub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robotpub build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/robotpub/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/robotpub/install.log --single-version-externally-managed install_data
+[1.519s] /home/reefranger/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[1.519s]   warnings.warn(msg)
+[1.616s] running egg_info
+[1.632s] writing ../../build/robotpub/robotpub.egg-info/PKG-INFO
+[1.633s] writing dependency_links to ../../build/robotpub/robotpub.egg-info/dependency_links.txt
+[1.633s] writing requirements to ../../build/robotpub/robotpub.egg-info/requires.txt
+[1.633s] writing top-level names to ../../build/robotpub/robotpub.egg-info/top_level.txt
+[1.667s] reading manifest file '../../build/robotpub/robotpub.egg-info/SOURCES.txt'
+[1.667s] adding license file 'LICENSE'
+[1.668s] writing manifest file '../../build/robotpub/robotpub.egg-info/SOURCES.txt'
+[1.668s] running build
+[1.669s] running build_py
+[1.669s] copying robotpub/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/robotpub/build/lib/robotpub
+[1.669s] running install
+[1.672s] running install_lib
+[1.688s] running install_data
+[1.689s] copying resource/robotpub -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/robotpub/share/ament_index/resource_index/packages
+[1.689s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/robotpub/share/robotpub
+[1.689s] running install_egg_info
+[1.705s] removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/robotpub/lib/python3.10/site-packages/robotpub-0.0.0-py3.10.egg-info' (and everything under it)
+[1.705s] Copying ../../build/robotpub/robotpub.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/robotpub/lib/python3.10/site-packages/robotpub-0.0.0-py3.10.egg-info
+[1.706s] running install_scripts
+[1.837s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/robotpub/install.log'
+[1.861s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/robotpub' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/robotpub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/robotpub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robotpub build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/robotpub/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/robotpub/install.log --single-version-externally-managed install_data
