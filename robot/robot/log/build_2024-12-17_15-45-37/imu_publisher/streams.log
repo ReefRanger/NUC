@@ -1,0 +1,33 @@
+[2.442s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/imu_publisher': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/imu_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/imu_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/imu_publisher build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/imu_publisher/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/imu_publisher/install.log --single-version-externally-managed install_data
+[3.882s] running egg_info
+[3.882s] creating ../../build/imu_publisher/imu_publisher.egg-info
+[3.882s] writing ../../build/imu_publisher/imu_publisher.egg-info/PKG-INFO
+[3.882s] writing dependency_links to ../../build/imu_publisher/imu_publisher.egg-info/dependency_links.txt
+[3.882s] writing entry points to ../../build/imu_publisher/imu_publisher.egg-info/entry_points.txt
+[3.882s] writing requirements to ../../build/imu_publisher/imu_publisher.egg-info/requires.txt
+[3.882s] writing top-level names to ../../build/imu_publisher/imu_publisher.egg-info/top_level.txt
+[3.882s] writing manifest file '../../build/imu_publisher/imu_publisher.egg-info/SOURCES.txt'
+[3.882s] reading manifest file '../../build/imu_publisher/imu_publisher.egg-info/SOURCES.txt'
+[3.882s] writing manifest file '../../build/imu_publisher/imu_publisher.egg-info/SOURCES.txt'
+[3.882s] running build
+[3.883s] running build_py
+[3.883s] creating /home/reefranger/Desktop/ReefRanger/robot/robot/build/imu_publisher/build/lib/imu_publisher
+[3.883s] copying imu_publisher/imu_publisher.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/imu_publisher/build/lib/imu_publisher
+[3.883s] copying imu_publisher/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/imu_publisher/build/lib/imu_publisher
+[3.883s] running install
+[3.883s] running install_lib
+[3.883s] creating /home/reefranger/Desktop/ReefRanger/robot/robot/install/imu_publisher/lib/python3.10/site-packages/imu_publisher
+[3.883s] copying /home/reefranger/Desktop/ReefRanger/robot/robot/build/imu_publisher/build/lib/imu_publisher/imu_publisher.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/imu_publisher/lib/python3.10/site-packages/imu_publisher
+[3.883s] copying /home/reefranger/Desktop/ReefRanger/robot/robot/build/imu_publisher/build/lib/imu_publisher/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/imu_publisher/lib/python3.10/site-packages/imu_publisher
+[3.887s] byte-compiling /home/reefranger/Desktop/ReefRanger/robot/robot/install/imu_publisher/lib/python3.10/site-packages/imu_publisher/imu_publisher.py to imu_publisher.cpython-310.pyc
+[3.887s] byte-compiling /home/reefranger/Desktop/ReefRanger/robot/robot/install/imu_publisher/lib/python3.10/site-packages/imu_publisher/__init__.py to __init__.cpython-310.pyc
+[3.887s] running install_data
+[3.887s] creating /home/reefranger/Desktop/ReefRanger/robot/robot/install/imu_publisher/share/ament_index/resource_index/packages
+[3.887s] copying resource/imu_publisher -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/imu_publisher/share/ament_index/resource_index/packages
+[3.888s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/imu_publisher/share/imu_publisher
+[3.888s] running install_egg_info
+[3.888s] Copying ../../build/imu_publisher/imu_publisher.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/imu_publisher/lib/python3.10/site-packages/imu_publisher-0.0.0-py3.10.egg-info
+[3.888s] running install_scripts
+[3.888s] Installing imu_publisher script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/imu_publisher/lib/imu_publisher
+[3.888s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/imu_publisher/install.log'
+[3.982s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/imu_publisher' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/imu_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/imu_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/imu_publisher build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/imu_publisher/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/imu_publisher/install.log --single-version-externally-managed install_data

@@ -1,0 +1,2 @@
+[console_scripts]
+gototable = gototable.gototable:main

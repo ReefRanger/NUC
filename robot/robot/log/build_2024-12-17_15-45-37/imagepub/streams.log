@@ -1,0 +1,39 @@
+[2.330s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/imagepub': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/imagepub build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/install.log --single-version-externally-managed install_data
+[2.615s] /home/reefranger/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[2.615s]   warnings.warn(msg)
+[2.825s] running egg_info
+[2.852s] creating ../../build/imagepub/imagepub.egg-info
+[2.853s] writing ../../build/imagepub/imagepub.egg-info/PKG-INFO
+[2.853s] writing dependency_links to ../../build/imagepub/imagepub.egg-info/dependency_links.txt
+[2.854s] writing entry points to ../../build/imagepub/imagepub.egg-info/entry_points.txt
+[2.854s] writing requirements to ../../build/imagepub/imagepub.egg-info/requires.txt
+[2.854s] writing top-level names to ../../build/imagepub/imagepub.egg-info/top_level.txt
+[2.854s] writing manifest file '../../build/imagepub/imagepub.egg-info/SOURCES.txt'
+[2.944s] reading manifest file '../../build/imagepub/imagepub.egg-info/SOURCES.txt'
+[2.944s] adding license file 'LICENSE'
+[2.945s] writing manifest file '../../build/imagepub/imagepub.egg-info/SOURCES.txt'
+[2.946s] running build
+[2.949s] running build_py
+[2.950s] creating /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build/lib/imagepub
+[2.953s] copying imagepub/imagepub.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build/lib/imagepub
+[2.954s] copying imagepub/imagepub_old.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build/lib/imagepub
+[2.954s] copying imagepub/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build/lib/imagepub
+[2.956s] running install
+[2.969s] running install_lib
+[3.027s] creating /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages/imagepub
+[3.027s] copying /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build/lib/imagepub/imagepub.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages/imagepub
+[3.028s] copying /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build/lib/imagepub/imagepub_old.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages/imagepub
+[3.028s] copying /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build/lib/imagepub/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages/imagepub
+[3.028s] byte-compiling /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages/imagepub/imagepub.py to imagepub.cpython-310.pyc
+[3.029s] byte-compiling /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages/imagepub/imagepub_old.py to imagepub_old.cpython-310.pyc
+[3.033s] byte-compiling /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages/imagepub/__init__.py to __init__.cpython-310.pyc
+[3.033s] running install_data
+[3.033s] creating /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/share/ament_index/resource_index/packages
+[3.034s] copying resource/imagepub -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/share/ament_index/resource_index/packages
+[3.034s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/share/imagepub
+[3.034s] running install_egg_info
+[3.095s] Copying ../../build/imagepub/imagepub.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages/imagepub-0.0.0-py3.10.egg-info
+[3.100s] running install_scripts
+[3.499s] Installing imagepub script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/imagepub
+[3.500s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/install.log'
+[3.891s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/imagepub' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/imagepub build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/install.log --single-version-externally-managed install_data

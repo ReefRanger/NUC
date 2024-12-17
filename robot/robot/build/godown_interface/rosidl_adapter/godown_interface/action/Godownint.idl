@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from godown_interface/action/Godownint.action
+// generated code does not contain a copyright notice
+
+
+module godown_interface {
+  module action {
+    struct Godownint_Goal {
+      double targetx;
+
+      double targety;
+    };
+    struct Godownint_Result {
+      boolean success;
+    };
+    struct Godownint_Feedback {
+      double currx;
+
+      double curry;
+    };
+  };
+};

@@ -1,0 +1,18 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../../build/mccontroller/mccontroller.egg-info/PKG-INFO
+../../build/mccontroller/mccontroller.egg-info/SOURCES.txt
+../../build/mccontroller/mccontroller.egg-info/dependency_links.txt
+../../build/mccontroller/mccontroller.egg-info/entry_points.txt
+../../build/mccontroller/mccontroller.egg-info/requires.txt
+../../build/mccontroller/mccontroller.egg-info/top_level.txt
+../../build/mccontroller/mccontroller.egg-info/zip-safe
+mccontroller/__init__.py
+mccontroller/mccontroller copy.py
+mccontroller/mccontroller.py
+resource/mccontroller
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

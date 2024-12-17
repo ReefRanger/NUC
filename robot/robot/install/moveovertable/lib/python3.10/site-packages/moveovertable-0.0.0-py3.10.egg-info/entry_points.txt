@@ -1,0 +1,2 @@
+[console_scripts]
+moveovertable = moveovertable.moveovertable:main

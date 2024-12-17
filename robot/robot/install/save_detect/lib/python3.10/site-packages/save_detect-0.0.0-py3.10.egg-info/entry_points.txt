@@ -1,0 +1,2 @@
+[console_scripts]
+save_detect = save_detect.save_detect:main

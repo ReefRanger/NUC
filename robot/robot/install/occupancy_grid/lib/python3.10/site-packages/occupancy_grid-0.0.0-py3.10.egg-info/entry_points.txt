@@ -1,0 +1,4 @@
+[console_scripts]
+occupancy_grid = occupancy_grid.occupancy_grid:main
+own_grid = occupancy_grid.own_grid:main
+reset_cloudpoints = occupancy_grid.reset_cloudpoints:main

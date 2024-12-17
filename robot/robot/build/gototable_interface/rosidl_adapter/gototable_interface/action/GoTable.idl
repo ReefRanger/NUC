@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from gototable_interface/action/GoTable.action
+// generated code does not contain a copyright notice
+
+
+module gototable_interface {
+  module action {
+    struct GoTable_Goal {
+      double targetx;
+
+      double targety;
+    };
+    struct GoTable_Result {
+      boolean success;
+    };
+    struct GoTable_Feedback {
+      double currx;
+
+      double curry;
+    };
+  };
+};

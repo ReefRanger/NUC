@@ -1,0 +1,39 @@
+[2.321s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/commander': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/commander/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/commander/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/commander build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/commander/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/commander/install.log --single-version-externally-managed install_data
+[2.575s] /home/reefranger/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[2.575s]   warnings.warn(msg)
+[2.778s] running egg_info
+[2.807s] creating ../../build/commander/commander.egg-info
+[2.808s] writing ../../build/commander/commander.egg-info/PKG-INFO
+[2.809s] writing dependency_links to ../../build/commander/commander.egg-info/dependency_links.txt
+[2.810s] writing entry points to ../../build/commander/commander.egg-info/entry_points.txt
+[2.810s] writing requirements to ../../build/commander/commander.egg-info/requires.txt
+[2.811s] writing top-level names to ../../build/commander/commander.egg-info/top_level.txt
+[2.811s] writing manifest file '../../build/commander/commander.egg-info/SOURCES.txt'
+[2.880s] reading manifest file '../../build/commander/commander.egg-info/SOURCES.txt'
+[2.882s] adding license file 'LICENSE'
+[2.882s] writing manifest file '../../build/commander/commander.egg-info/SOURCES.txt'
+[2.882s] running build
+[2.883s] running build_py
+[2.883s] creating /home/reefranger/Desktop/ReefRanger/robot/robot/build/commander/build/lib/commander
+[2.884s] copying commander/commander copy.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/commander/build/lib/commander
+[2.885s] copying commander/commander.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/commander/build/lib/commander
+[2.886s] copying commander/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/commander/build/lib/commander
+[2.886s] running install
+[2.893s] running install_lib
+[2.924s] creating /home/reefranger/Desktop/ReefRanger/robot/robot/install/commander/lib/python3.10/site-packages/commander
+[2.924s] copying /home/reefranger/Desktop/ReefRanger/robot/robot/build/commander/build/lib/commander/commander copy.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/commander/lib/python3.10/site-packages/commander
+[2.924s] copying /home/reefranger/Desktop/ReefRanger/robot/robot/build/commander/build/lib/commander/commander.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/commander/lib/python3.10/site-packages/commander
+[2.924s] copying /home/reefranger/Desktop/ReefRanger/robot/robot/build/commander/build/lib/commander/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/commander/lib/python3.10/site-packages/commander
+[2.925s] byte-compiling /home/reefranger/Desktop/ReefRanger/robot/robot/install/commander/lib/python3.10/site-packages/commander/commander copy.py to commander copy.cpython-310.pyc
+[2.926s] byte-compiling /home/reefranger/Desktop/ReefRanger/robot/robot/install/commander/lib/python3.10/site-packages/commander/commander.py to commander.cpython-310.pyc
+[2.927s] byte-compiling /home/reefranger/Desktop/ReefRanger/robot/robot/install/commander/lib/python3.10/site-packages/commander/__init__.py to __init__.cpython-310.pyc
+[2.928s] running install_data
+[2.928s] creating /home/reefranger/Desktop/ReefRanger/robot/robot/install/commander/share/ament_index/resource_index/packages
+[2.928s] copying resource/commander -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/commander/share/ament_index/resource_index/packages
+[2.929s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/commander/share/commander
+[2.929s] running install_egg_info
+[2.973s] Copying ../../build/commander/commander.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/commander/lib/python3.10/site-packages/commander-0.0.0-py3.10.egg-info
+[2.974s] running install_scripts
+[3.356s] Installing commander script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/commander/lib/commander
+[3.357s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/commander/install.log'
+[3.409s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/commander' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/commander/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/commander/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/commander build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/commander/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/commander/install.log --single-version-externally-managed install_data

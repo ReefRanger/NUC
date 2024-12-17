@@ -1,0 +1,16 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../../build/pidtable/pidtable.egg-info/PKG-INFO
+../../build/pidtable/pidtable.egg-info/SOURCES.txt
+../../build/pidtable/pidtable.egg-info/dependency_links.txt
+../../build/pidtable/pidtable.egg-info/requires.txt
+../../build/pidtable/pidtable.egg-info/top_level.txt
+../../build/pidtable/pidtable.egg-info/zip-safe
+pidtable/__init__.py
+pidtable/pidtable.py
+resource/pidtable
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

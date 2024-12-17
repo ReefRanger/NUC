@@ -1,0 +1,35 @@
+[2.427s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/movetable': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/movetable build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/install.log --single-version-externally-managed install_data
+[3.865s] running egg_info
+[3.865s] creating ../../build/movetable/movetable.egg-info
+[3.865s] writing ../../build/movetable/movetable.egg-info/PKG-INFO
+[3.866s] writing dependency_links to ../../build/movetable/movetable.egg-info/dependency_links.txt
+[3.866s] writing entry points to ../../build/movetable/movetable.egg-info/entry_points.txt
+[3.866s] writing requirements to ../../build/movetable/movetable.egg-info/requires.txt
+[3.866s] writing top-level names to ../../build/movetable/movetable.egg-info/top_level.txt
+[3.866s] writing manifest file '../../build/movetable/movetable.egg-info/SOURCES.txt'
+[3.866s] reading manifest file '../../build/movetable/movetable.egg-info/SOURCES.txt'
+[3.866s] writing manifest file '../../build/movetable/movetable.egg-info/SOURCES.txt'
+[3.866s] running build
+[3.866s] running build_py
+[3.866s] creating /home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/build/lib/movetable
+[3.866s] copying movetable/movetable.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/build/lib/movetable
+[3.866s] copying movetable/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/build/lib/movetable
+[3.866s] running install
+[3.866s] running install_lib
+[3.866s] creating /home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/lib/python3.10/site-packages/movetable
+[3.866s] copying /home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/build/lib/movetable/movetable.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/lib/python3.10/site-packages/movetable
+[3.867s] copying /home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/build/lib/movetable/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/lib/python3.10/site-packages/movetable
+[3.867s] byte-compiling /home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/lib/python3.10/site-packages/movetable/movetable.py to movetable.cpython-310.pyc
+[3.867s] byte-compiling /home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/lib/python3.10/site-packages/movetable/__init__.py to __init__.cpython-310.pyc
+[3.867s] running install_data
+[3.867s] creating /home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/share/ament_index/resource_index/packages
+[3.867s] copying resource/movetable -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/share/ament_index/resource_index/packages
+[3.867s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/share/movetable
+[3.867s] running install_egg_info
+[3.867s] Copying ../../build/movetable/movetable.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/lib/python3.10/site-packages/movetable-0.0.0-py3.10.egg-info
+[3.867s] running install_scripts
+[3.867s] Installing movetable script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/lib/movetable
+[3.867s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/install.log'
+[3.867s] /home/reefranger/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[3.867s]   warnings.warn(msg)
+[3.914s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/movetable' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/movetable build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/movetable/install.log --single-version-externally-managed install_data
