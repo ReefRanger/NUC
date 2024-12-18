@@ -1,4 +1,4 @@
-# NUC
+# Dependencies
 
 - Ubuntu 22.04 jammy jellyfisch
 - Ros2 humble hawskbill installation guide https://docs.ros.org/en/humble/Installation.html
