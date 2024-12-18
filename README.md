@@ -17,3 +17,8 @@
   - sudo sh -c 'echo "deb [arch=amd64] http://packages.osrfoundation.org/gz/gz-ubuntu $(lsb_release -cs) main" > /etc/apt/sources.list.d/gazebo-stable.list'
   - sudo apt update
   - sudo apt install gz-harmonic
+  - apt-get install ros-humble-ros-gzharmonic
+
+- Nav2 msgs:
+  - sudo apt-get install ros-humble-nav2-msgs
+
