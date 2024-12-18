@@ -1,0 +1,8 @@
+[0.932s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/build/usb_cam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_ros:/home/reefranger/Desktop/ReefRanger/robot/robot/install/state_machine:/home/reefranger/Desktop/ReefRanger/robot/robot/install/save_detect:/home/reefranger/Desktop/ReefRanger/robot/robot/install/robotpub:/home/reefranger/Desktop/ReefRanger/robot/robot/install/pidtable:/home/reefranger/Desktop/ReefRanger/robot/robot/install/pathctrl:/home/reefranger/Desktop/ReefRanger/robot/robot/install/occupancy_grid:/home/reefranger/Desktop/ReefRanger/robot/robot/install/navigate_path:/home/reefranger/Desktop/ReefRanger/robot/robot/install/movetable:/home/reefranger/Desktop/ReefRanger/robot/robot/install/moveovertable:/home/reefranger/Desktop/ReefRanger/robot/robot/install/mccontroller:/home/reefranger/Desktop/ReefRanger/robot/robot/install/ins:/home/reefranger/Desktop/ReefRanger/robot/robot/install/imu_publisher:/home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub:/home/reefranger/Desktop/ReefRanger/robot/robot/install/gototable:/home/reefranger/Desktop/ReefRanger/robot/robot/install/commander:/home/reefranger/Desktop/ReefRanger/robot/robot/install/bcudriver:/opt/ros/humble /usr/bin/cmake --build /home/reefranger/Desktop/ReefRanger/robot/robot/build/usb_cam -- -j12 -l12
+[0.981s] [ 21%] Built target gtest_main
+[0.981s] [ 35%] Built target gtest
+[0.981s] [ 42%] Built target usb_cam
+[0.982s] [ 57%] Built target usb_cam_node_exe
+[1.001s] [ 85%] Built target test_usb_cam_utils
+[1.001s] [ 85%] Built target test_pixel_formats
+[1.005s] [100%] Built target usb_cam_node

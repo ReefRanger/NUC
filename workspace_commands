@@ -39,13 +39,18 @@ ros2 run gototable gototable
 
 
 
+cd Desktop/ReefRanger/robot/robot/
+colcon build
+source install/setup.bash
 
 cd /home/reefranger/Desktop/ReefRanger/robot/sim
 gz sim underwater.sdf
 ign gazebo underwater.sdf
+
 cd /home/reefranger/Desktop/ReefRanger/robot/robot/src/launch
 ros2 launch sim_launch.py
 ros2 launch robot_launch.py
+
 
 
 

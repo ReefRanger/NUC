@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/imagepub/imagepub.egg-info/PKG-INFO
+writing dependency_links to ../../build/imagepub/imagepub.egg-info/dependency_links.txt
+writing entry points to ../../build/imagepub/imagepub.egg-info/entry_points.txt
+writing requirements to ../../build/imagepub/imagepub.egg-info/requires.txt
+writing top-level names to ../../build/imagepub/imagepub.egg-info/top_level.txt
+reading manifest file '../../build/imagepub/imagepub.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/imagepub/imagepub.egg-info/SOURCES.txt'
+running build
+running build_py
+copying imagepub/imagepub.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build/lib/imagepub
+copying imagepub/imagepub_old.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build/lib/imagepub
+copying imagepub/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build/lib/imagepub
+running install
+running install_lib
+byte-compiling /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages/imagepub/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/imagepub -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/share/ament_index/resource_index/packages
+copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/share/imagepub
+running install_egg_info
+removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages/imagepub-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/imagepub/imagepub.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages/imagepub-0.0.0-py3.10.egg-info
+running install_scripts
+Installing imagepub script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/imagepub
+writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/install.log'
