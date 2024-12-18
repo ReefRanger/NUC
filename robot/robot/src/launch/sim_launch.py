@@ -185,4 +185,11 @@ def generate_launch_description():
             arguments=['/navsat@sensor_msgs/msg/NavSatFix@gz.msgs.NavSat'],
             output='screen'
         ),
+
+        Node(
+            package='movetable',  # Replace with your package name
+            executable='movetable',  # Replace with your node executable name
+            name='movetable',  # Node name
+            output='screen',
+        ),
     ])

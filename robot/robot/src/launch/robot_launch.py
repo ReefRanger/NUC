@@ -98,6 +98,7 @@ def generate_launch_description():
             output='screen'
         ),
         
+        #ORBSlam
         Node(
             package='navigate_path',  # Replace with your package name
             executable='navigate_path',  # Replace with your node executable name
@@ -109,6 +110,15 @@ def generate_launch_description():
             package='moveovertable',  # Replace with your package name
             executable='moveovertable',  # Replace with your node executable name
             name='moveovertable',  # Node name
+            output='screen',
+        ),
+
+
+        #Yolo 
+        Node(
+            package='gototable',  # Replace with your package name
+            executable='gototable',  # Replace with your node executable name
+            name='gototable',  # Node name
             output='screen',
         ),
         
