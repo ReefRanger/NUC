@@ -1,2 +1,0 @@
-[console_scripts]
-mccontroller = mccontroller.mccontroller:main

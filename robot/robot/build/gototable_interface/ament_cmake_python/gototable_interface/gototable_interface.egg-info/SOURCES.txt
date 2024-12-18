@@ -1,8 +1,0 @@
-setup.py
-gototable_interface/__init__.py
-gototable_interface.egg-info/PKG-INFO
-gototable_interface.egg-info/SOURCES.txt
-gototable_interface.egg-info/dependency_links.txt
-gototable_interface.egg-info/top_level.txt
-gototable_interface/action/__init__.py
-gototable_interface/action/_go_table.py

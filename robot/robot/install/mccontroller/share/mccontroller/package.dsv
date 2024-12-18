@@ -1,6 +1,0 @@
-source;share/mccontroller/hook/pythonpath.ps1
-source;share/mccontroller/hook/pythonpath.dsv
-source;share/mccontroller/hook/pythonpath.sh
-source;share/mccontroller/hook/ament_prefix_path.ps1
-source;share/mccontroller/hook/ament_prefix_path.dsv
-source;share/mccontroller/hook/ament_prefix_path.sh

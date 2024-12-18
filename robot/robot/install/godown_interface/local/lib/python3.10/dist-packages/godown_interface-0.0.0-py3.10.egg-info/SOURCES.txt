@@ -1,8 +1,0 @@
-setup.py
-godown_interface/__init__.py
-godown_interface.egg-info/PKG-INFO
-godown_interface.egg-info/SOURCES.txt
-godown_interface.egg-info/dependency_links.txt
-godown_interface.egg-info/top_level.txt
-godown_interface/action/__init__.py
-godown_interface/action/_godownint.py

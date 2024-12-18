@@ -1,2 +1,0 @@
-[console_scripts]
-navigate_path = navigate_path.navigate_path:main

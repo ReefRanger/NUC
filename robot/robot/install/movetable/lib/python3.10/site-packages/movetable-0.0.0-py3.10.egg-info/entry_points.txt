@@ -1,2 +1,0 @@
-[console_scripts]
-movetable = movetable.movetable:main
