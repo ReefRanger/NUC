@@ -1,0 +1,27 @@
+[2.480s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/imagepub': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/imagepub build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/install.log --single-version-externally-managed install_data
+[2.928s] running egg_info
+[2.976s] writing ../../build/imagepub/imagepub.egg-info/PKG-INFO
+[2.977s] writing dependency_links to ../../build/imagepub/imagepub.egg-info/dependency_links.txt
+[2.977s] writing entry points to ../../build/imagepub/imagepub.egg-info/entry_points.txt
+[2.978s] writing requirements to ../../build/imagepub/imagepub.egg-info/requires.txt
+[2.986s] writing top-level names to ../../build/imagepub/imagepub.egg-info/top_level.txt
+[3.092s] reading manifest file '../../build/imagepub/imagepub.egg-info/SOURCES.txt'
+[3.092s] adding license file 'LICENSE'
+[3.102s] writing manifest file '../../build/imagepub/imagepub.egg-info/SOURCES.txt'
+[3.103s] running build
+[3.103s] running build_py
+[3.103s] copying imagepub/imagepub.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build/lib/imagepub
+[3.103s] copying imagepub/imagepub_old.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build/lib/imagepub
+[3.103s] copying imagepub/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build/lib/imagepub
+[3.103s] running install
+[3.114s] running install_lib
+[3.147s] running install_data
+[3.148s] copying resource/imagepub -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/share/ament_index/resource_index/packages
+[3.148s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/share/imagepub
+[3.148s] running install_egg_info
+[3.180s] removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages/imagepub-0.0.0-py3.10.egg-info' (and everything under it)
+[3.181s] Copying ../../build/imagepub/imagepub.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages/imagepub-0.0.0-py3.10.egg-info
+[3.186s] running install_scripts
+[3.476s] Installing imagepub script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/imagepub
+[3.476s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/install.log'
+[3.886s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/imagepub' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/imagepub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/imagepub build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/imagepub/install.log --single-version-externally-managed install_data

@@ -1,0 +1,33 @@
+[1.659s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/occupancy_grid': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/occupancy_grid/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/occupancy_grid/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/occupancy_grid build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/occupancy_grid/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/occupancy_grid/install.log --single-version-externally-managed install_data
+[2.037s] running egg_info
+[2.065s] writing ../../build/occupancy_grid/occupancy_grid.egg-info/PKG-INFO
+[2.066s] writing dependency_links to ../../build/occupancy_grid/occupancy_grid.egg-info/dependency_links.txt
+[2.066s] writing entry points to ../../build/occupancy_grid/occupancy_grid.egg-info/entry_points.txt
+[2.067s] writing requirements to ../../build/occupancy_grid/occupancy_grid.egg-info/requires.txt
+[2.068s] writing top-level names to ../../build/occupancy_grid/occupancy_grid.egg-info/top_level.txt
+[2.126s] reading manifest file '../../build/occupancy_grid/occupancy_grid.egg-info/SOURCES.txt'
+[2.128s] writing manifest file '../../build/occupancy_grid/occupancy_grid.egg-info/SOURCES.txt'
+[2.129s] running build
+[2.129s] running build_py
+[2.129s] copying occupancy_grid/occupancy_grid12.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/occupancy_grid/build/lib/occupancy_grid
+[2.129s] copying occupancy_grid/own_grid.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/occupancy_grid/build/lib/occupancy_grid
+[2.129s] copying occupancy_grid/reset_cloudpoints.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/occupancy_grid/build/lib/occupancy_grid
+[2.130s] copying occupancy_grid/occupancy_grid.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/occupancy_grid/build/lib/occupancy_grid
+[2.130s] copying occupancy_grid/occupancy_grid_old.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/occupancy_grid/build/lib/occupancy_grid
+[2.130s] copying occupancy_grid/occupancy_grid_no.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/occupancy_grid/build/lib/occupancy_grid
+[2.130s] copying occupancy_grid/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/occupancy_grid/build/lib/occupancy_grid
+[2.131s] running install
+[2.137s] running install_lib
+[2.167s] running install_data
+[2.168s] copying resource/occupancy_grid -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/occupancy_grid/share/ament_index/resource_index/packages
+[2.168s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/occupancy_grid/share/occupancy_grid
+[2.168s] copying launch/slam.launch.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/occupancy_grid/share/occupancy_grid/launch
+[2.168s] running install_egg_info
+[2.200s] removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/occupancy_grid/lib/python3.10/site-packages/occupancy_grid-0.0.0-py3.10.egg-info' (and everything under it)
+[2.200s] Copying ../../build/occupancy_grid/occupancy_grid.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/occupancy_grid/lib/python3.10/site-packages/occupancy_grid-0.0.0-py3.10.egg-info
+[2.200s] running install_scripts
+[2.429s] Installing occupancy_grid script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/occupancy_grid/lib/occupancy_grid
+[2.430s] Installing own_grid script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/occupancy_grid/lib/occupancy_grid
+[2.430s] Installing reset_cloudpoints script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/occupancy_grid/lib/occupancy_grid
+[2.430s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/occupancy_grid/install.log'
+[2.454s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/occupancy_grid' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/occupancy_grid/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/occupancy_grid/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/occupancy_grid build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/occupancy_grid/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/occupancy_grid/install.log --single-version-externally-managed install_data

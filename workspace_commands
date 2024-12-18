@@ -39,7 +39,7 @@ ros2 run gototable gototable
 
 
 
-cd Desktop/ReefRanger/robot/robot/
+cd /home/reefranger/Desktop/ReefRanger/robot/robot
 colcon build
 source install/setup.bash
 

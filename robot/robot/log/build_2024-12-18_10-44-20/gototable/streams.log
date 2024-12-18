@@ -1,0 +1,26 @@
+[2.481s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/gototable': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/gototable/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gototable build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable/install.log --single-version-externally-managed install_data
+[3.017s] running egg_info
+[3.045s] writing ../../build/gototable/gototable.egg-info/PKG-INFO
+[3.046s] writing dependency_links to ../../build/gototable/gototable.egg-info/dependency_links.txt
+[3.046s] writing entry points to ../../build/gototable/gototable.egg-info/entry_points.txt
+[3.046s] writing requirements to ../../build/gototable/gototable.egg-info/requires.txt
+[3.052s] writing top-level names to ../../build/gototable/gototable.egg-info/top_level.txt
+[3.102s] reading manifest file '../../build/gototable/gototable.egg-info/SOURCES.txt'
+[3.103s] adding license file 'LICENSE'
+[3.104s] writing manifest file '../../build/gototable/gototable.egg-info/SOURCES.txt'
+[3.105s] running build
+[3.105s] running build_py
+[3.105s] copying gototable/gototable.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable/build/lib/gototable
+[3.107s] copying gototable/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable/build/lib/gototable
+[3.107s] running install
+[3.112s] running install_lib
+[3.140s] running install_data
+[3.140s] copying resource/gototable -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/gototable/share/ament_index/resource_index/packages
+[3.141s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/gototable/share/gototable
+[3.141s] running install_egg_info
+[3.179s] removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/gototable/lib/python3.10/site-packages/gototable-0.0.0-py3.10.egg-info' (and everything under it)
+[3.179s] Copying ../../build/gototable/gototable.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/gototable/lib/python3.10/site-packages/gototable-0.0.0-py3.10.egg-info
+[3.180s] running install_scripts
+[3.437s] Installing gototable script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/gototable/lib/gototable
+[3.438s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable/install.log'
+[3.872s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/gototable' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/gototable/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gototable build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable/install.log --single-version-externally-managed install_data

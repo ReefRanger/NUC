@@ -1,0 +1,24 @@
+[1.567s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/pidtable': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/pidtable/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/pidtable/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pidtable build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/pidtable/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/pidtable/install.log --single-version-externally-managed install_data
+[1.901s] running egg_info
+[1.920s] writing ../../build/pidtable/pidtable.egg-info/PKG-INFO
+[1.921s] writing dependency_links to ../../build/pidtable/pidtable.egg-info/dependency_links.txt
+[1.921s] writing requirements to ../../build/pidtable/pidtable.egg-info/requires.txt
+[1.921s] writing top-level names to ../../build/pidtable/pidtable.egg-info/top_level.txt
+[1.966s] reading manifest file '../../build/pidtable/pidtable.egg-info/SOURCES.txt'
+[1.966s] adding license file 'LICENSE'
+[1.967s] writing manifest file '../../build/pidtable/pidtable.egg-info/SOURCES.txt'
+[1.967s] running build
+[1.967s] running build_py
+[1.967s] copying pidtable/pidtable.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/pidtable/build/lib/pidtable
+[1.968s] copying pidtable/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/pidtable/build/lib/pidtable
+[1.968s] running install
+[1.972s] running install_lib
+[1.992s] running install_data
+[1.992s] copying resource/pidtable -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/pidtable/share/ament_index/resource_index/packages
+[1.993s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/pidtable/share/pidtable
+[1.993s] running install_egg_info
+[2.013s] removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/pidtable/lib/python3.10/site-packages/pidtable-0.0.0-py3.10.egg-info' (and everything under it)
+[2.013s] Copying ../../build/pidtable/pidtable.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/pidtable/lib/python3.10/site-packages/pidtable-0.0.0-py3.10.egg-info
+[2.014s] running install_scripts
+[2.169s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/pidtable/install.log'
+[2.187s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/pidtable' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/pidtable/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/pidtable/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pidtable build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/pidtable/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/pidtable/install.log --single-version-externally-managed install_data

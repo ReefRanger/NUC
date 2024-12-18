@@ -1,0 +1,27 @@
+[1.990s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/navigate_path': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/navigate_path/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/navigate_path/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/navigate_path build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/navigate_path/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/navigate_path/install.log --single-version-externally-managed install_data
+[2.212s] running egg_info
+[2.229s] writing ../../build/navigate_path/navigate_path.egg-info/PKG-INFO
+[2.229s] writing dependency_links to ../../build/navigate_path/navigate_path.egg-info/dependency_links.txt
+[2.229s] writing entry points to ../../build/navigate_path/navigate_path.egg-info/entry_points.txt
+[2.230s] writing requirements to ../../build/navigate_path/navigate_path.egg-info/requires.txt
+[2.230s] writing top-level names to ../../build/navigate_path/navigate_path.egg-info/top_level.txt
+[2.268s] reading manifest file '../../build/navigate_path/navigate_path.egg-info/SOURCES.txt'
+[2.268s] adding license file 'LICENSE'
+[2.269s] writing manifest file '../../build/navigate_path/navigate_path.egg-info/SOURCES.txt'
+[2.270s] running build
+[2.270s] running build_py
+[2.270s] copying navigate_path/navigate_path_old.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/navigate_path/build/lib/navigate_path
+[2.270s] copying navigate_path/navigate_path.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/navigate_path/build/lib/navigate_path
+[2.270s] copying navigate_path/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/navigate_path/build/lib/navigate_path
+[2.271s] running install
+[2.275s] running install_lib
+[2.295s] running install_data
+[2.295s] copying resource/navigate_path -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/navigate_path/share/ament_index/resource_index/packages
+[2.295s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/navigate_path/share/navigate_path
+[2.296s] running install_egg_info
+[2.316s] removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/navigate_path/lib/python3.10/site-packages/navigate_path-0.0.0-py3.10.egg-info' (and everything under it)
+[2.316s] Copying ../../build/navigate_path/navigate_path.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/navigate_path/lib/python3.10/site-packages/navigate_path-0.0.0-py3.10.egg-info
+[2.317s] running install_scripts
+[2.493s] Installing navigate_path script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/navigate_path/lib/navigate_path
+[2.493s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/navigate_path/install.log'
+[2.964s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/navigate_path' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/navigate_path/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/navigate_path/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/navigate_path build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/navigate_path/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/navigate_path/install.log --single-version-externally-managed install_data

@@ -1,0 +1,4 @@
+Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable_interface -- -j12 -l12
+Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable_interface -- -j12 -l12
+Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable_interface
+Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/reefranger/Desktop/ReefRanger/robot/robot/build/gototable_interface

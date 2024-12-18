@@ -1,0 +1,26 @@
+[1.569s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/state_machine': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/state_machine/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/state_machine/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/state_machine build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/state_machine/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/state_machine/install.log --single-version-externally-managed install_data
+[1.837s] running egg_info
+[1.858s] writing ../../build/state_machine/state_machine.egg-info/PKG-INFO
+[1.859s] writing dependency_links to ../../build/state_machine/state_machine.egg-info/dependency_links.txt
+[1.859s] writing entry points to ../../build/state_machine/state_machine.egg-info/entry_points.txt
+[1.859s] writing requirements to ../../build/state_machine/state_machine.egg-info/requires.txt
+[1.859s] writing top-level names to ../../build/state_machine/state_machine.egg-info/top_level.txt
+[1.901s] reading manifest file '../../build/state_machine/state_machine.egg-info/SOURCES.txt'
+[1.901s] adding license file 'LICENSE'
+[1.902s] writing manifest file '../../build/state_machine/state_machine.egg-info/SOURCES.txt'
+[1.902s] running build
+[1.902s] running build_py
+[1.903s] copying state_machine/state_machine.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/state_machine/build/lib/state_machine
+[1.903s] copying state_machine/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/state_machine/build/lib/state_machine
+[1.903s] running install
+[1.907s] running install_lib
+[1.929s] running install_data
+[1.929s] copying resource/state_machine -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/state_machine/share/ament_index/resource_index/packages
+[1.929s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/state_machine/share/state_machine
+[1.930s] running install_egg_info
+[1.950s] removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/state_machine/lib/python3.10/site-packages/state_machine-0.0.0-py3.10.egg-info' (and everything under it)
+[1.951s] Copying ../../build/state_machine/state_machine.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/state_machine/lib/python3.10/site-packages/state_machine-0.0.0-py3.10.egg-info
+[1.952s] running install_scripts
+[2.116s] Installing state_machine script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/state_machine/lib/state_machine
+[2.116s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/state_machine/install.log'
+[2.139s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/state_machine' returned '0': PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/state_machine/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/state_machine/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/state_machine build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/state_machine/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/state_machine/install.log --single-version-externally-managed install_data

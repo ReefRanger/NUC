@@ -1,0 +1,31 @@
+[1.443s] Invoking command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/yolo/yolov8_ros/yolov8_ros': CMAKE_PREFIX_PATH=/home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_msgs:/home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_bringup:/home/reefranger/Desktop/ReefRanger/robot/robot/install/usb_cam:/home/reefranger/Desktop/ReefRanger/robot/robot/install/ros2_orb_slam3:/home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface:/home/reefranger/Desktop/ReefRanger/robot/robot/install/gototable_interface:/home/reefranger/Desktop/ReefRanger/robot/robot/install/godown_interface PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/yolov8_ros build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_ros/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_ros/install.log --single-version-externally-managed install_data
+[1.738s] running egg_info
+[1.758s] writing ../../../../build/yolov8_ros/yolov8_ros.egg-info/PKG-INFO
+[1.759s] writing dependency_links to ../../../../build/yolov8_ros/yolov8_ros.egg-info/dependency_links.txt
+[1.759s] writing entry points to ../../../../build/yolov8_ros/yolov8_ros.egg-info/entry_points.txt
+[1.760s] writing requirements to ../../../../build/yolov8_ros/yolov8_ros.egg-info/requires.txt
+[1.760s] writing top-level names to ../../../../build/yolov8_ros/yolov8_ros.egg-info/top_level.txt
+[1.794s] reading manifest file '../../../../build/yolov8_ros/yolov8_ros.egg-info/SOURCES.txt'
+[1.796s] writing manifest file '../../../../build/yolov8_ros/yolov8_ros.egg-info/SOURCES.txt'
+[1.796s] running build
+[1.796s] running build_py
+[1.796s] copying yolov8_ros/tracking_node.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_ros/build/lib/yolov8_ros
+[1.796s] copying yolov8_ros/yolov8_node.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_ros/build/lib/yolov8_ros
+[1.796s] copying yolov8_ros/debug_node.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_ros/build/lib/yolov8_ros
+[1.796s] copying yolov8_ros/detect_3d_node.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_ros/build/lib/yolov8_ros
+[1.797s] copying yolov8_ros/__init__.py -> /home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_ros/build/lib/yolov8_ros
+[1.797s] running install
+[1.801s] running install_lib
+[1.819s] running install_data
+[1.819s] copying resource/yolov8_ros -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_ros/share/ament_index/resource_index/packages
+[1.819s] copying package.xml -> /home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_ros/share/yolov8_ros
+[1.819s] running install_egg_info
+[1.837s] removing '/home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_ros/lib/python3.10/site-packages/yolov8_ros-0.0.0-py3.10.egg-info' (and everything under it)
+[1.837s] Copying ../../../../build/yolov8_ros/yolov8_ros.egg-info to /home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_ros/lib/python3.10/site-packages/yolov8_ros-0.0.0-py3.10.egg-info
+[1.838s] running install_scripts
+[1.990s] Installing debug_node script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_ros/lib/yolov8_ros
+[1.990s] Installing detect_3d_node script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_ros/lib/yolov8_ros
+[1.991s] Installing tracking_node script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_ros/lib/yolov8_ros
+[1.991s] Installing yolov8_node script to /home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_ros/lib/yolov8_ros
+[1.991s] writing list of installed files to '/home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_ros/install.log'
+[2.011s] Invoked command in '/home/reefranger/Desktop/ReefRanger/robot/robot/src/yolo/yolov8_ros/yolov8_ros' returned '0': CMAKE_PREFIX_PATH=/home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_msgs:/home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_bringup:/home/reefranger/Desktop/ReefRanger/robot/robot/install/usb_cam:/home/reefranger/Desktop/ReefRanger/robot/robot/install/ros2_orb_slam3:/home/reefranger/Desktop/ReefRanger/robot/robot/install/move_interface:/home/reefranger/Desktop/ReefRanger/robot/robot/install/gototable_interface:/home/reefranger/Desktop/ReefRanger/robot/robot/install/godown_interface PYTHONPATH=/home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/reefranger/Desktop/ReefRanger/robot/robot/install/yolov8_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/yolov8_ros build --build-base /home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_ros/build install --record /home/reefranger/Desktop/ReefRanger/robot/robot/build/yolov8_ros/install.log --single-version-externally-managed install_data
