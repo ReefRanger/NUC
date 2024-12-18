@@ -152,32 +152,32 @@ def generate_launch_description():
             output='screen'
         ),
 
-        # ROS-gz bridge for umdrehung_2 cmd_thrust command
-        Node(
-            package='ros_gz_bridge',
-            executable='parameter_bridge',
-            name='umdrehung_2_cmd_thrust_bridge',
-            arguments=['/model/tethys/joint/umdrehung_2/cmd_thrust@std_msgs/msg/Float64@gz.msgs.Double'],
-            output='screen'
-        ),
+        # # ROS-gz bridge for umdrehung_2 cmd_thrust command
+        # Node(
+        #     package='ros_gz_bridge',
+        #     executable='parameter_bridge',
+        #     name='umdrehung_2_cmd_thrust_bridge',
+        #     arguments=['/model/tethys/joint/umdrehung_2/cmd_thrust@std_msgs/msg/Float64@gz.msgs.Double'],
+        #     output='screen'
+        # ),
 
-        # ROS-gz bridge for umdrehung_3 cmd_thrust command
-        Node(
-            package='ros_gz_bridge',
-            executable='parameter_bridge',
-            name='umdrehung_3_cmd_thrust_bridge',
-            arguments=['/model/tethys/joint/umdrehung_3/cmd_thrust@std_msgs/msg/Float64@gz.msgs.Double'],
-            output='screen'
-        ),
+        # # ROS-gz bridge for umdrehung_3 cmd_thrust command
+        # Node(
+        #     package='ros_gz_bridge',
+        #     executable='parameter_bridge',
+        #     name='umdrehung_3_cmd_thrust_bridge',
+        #     arguments=['/model/tethys/joint/umdrehung_3/cmd_thrust@std_msgs/msg/Float64@gz.msgs.Double'],
+        #     output='screen'
+        # ),
 
-        # ROS-gz bridge for umdrehung_4 cmd_thrust command
-        Node(
-            package='ros_gz_bridge',
-            executable='parameter_bridge',
-            name='umdrehung_4_cmd_thrust_bridge',
-            arguments=['/model/tethys/joint/umdrehung_4/cmd_thrust@std_msgs/msg/Float64@gz.msgs.Double'],
-            output='screen'
-        ),
+        # # ROS-gz bridge for umdrehung_4 cmd_thrust command
+        # Node(
+        #     package='ros_gz_bridge',
+        #     executable='parameter_bridge',
+        #     name='umdrehung_4_cmd_thrust_bridge',
+        #     arguments=['/model/tethys/joint/umdrehung_4/cmd_thrust@std_msgs/msg/Float64@gz.msgs.Double'],
+        #     output='screen'
+        # ),
         Node(
             package='ros_gz_bridge',
             executable='parameter_bridge',
